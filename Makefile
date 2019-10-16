@@ -1,12 +1,3 @@
-AUTHOR := hmartzol
+include Makefiles/default_var.mk
 NAME := scop
-SRCDIR := src
-INCDIRS := inc
-OBJDIR := .obj
-DEPDIR := .dep
-MAIN := main.c
-CFLAGS := -Wall -Wextra -Werror
-PINC := libft/inc
-CLIB := libft
-LIB := libft/libft.a
-include Makefiles/Makefile.gen
+include Makefiles/bin.mk
