@@ -12,4 +12,7 @@
 
 #ifndef SCOP_H
 # define SCOP_H
+
+# include <glfw3.h>
+
 #endif

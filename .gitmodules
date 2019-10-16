@@ -2,3 +2,6 @@
 	path = Makefiles
 	branch = master
 	url = https://github.com/LIMachi/Makefiles.git
+[submodule "glfw"]
+	path = glfw
+	url = https://github.com/glfw/glfw.git
