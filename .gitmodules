@@ -1,8 +1,4 @@
-[submodule "libft"]
-	path = libft
-	branch = mac
-	url = https://github.com/LIMachi/libft.git
 [submodule "Makefiles"]
 	path = Makefiles
-	branch = mac
+	branch = master
 	url = https://github.com/LIMachi/Makefiles.git
